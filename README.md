@@ -1,5 +1,5 @@
 ## Build Chrome Extension Using Vue.js
-Tutorial Link: [Build a Super Fast Google Chrome Extension Using Vue.js](https://www.mynotepaper.com/build-a-google-chrome-extension-using-vue-js.html)
+Tutorial Link: [Build a Super Fast Google Chrome Extension Using Vue.js](https://www.mynotepaper.com/build-a-google-chrome-extension-using-vuejs.html)
 
 ## Output
 ![build-a-super-fast-google-chrome-extension-using-vue-js-output](https://user-images.githubusercontent.com/13184472/67241777-e3b2af00-f475-11e9-8f63-1be9751d6db6.png)
