@@ -1,5 +1,5 @@
 {
-  "name": "Search on MyNotePapar",
+  "name": "search-on-mynotepaper",
   "description": "A search form web extension using Vue.js",
   "version": "1.0.0",
   "manifest_version": 2,
